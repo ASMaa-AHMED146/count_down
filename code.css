@@ -1,0 +1,15 @@
+.count
+{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.count span
+{
+   color: black;
+   display: block;
+   background-image: linear-gradient(orange,yellow,red);
+   margin: 50px;
+   font-size: 20px;
+   padding: 25px;
+}
